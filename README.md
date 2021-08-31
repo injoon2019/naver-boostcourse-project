@@ -64,4 +64,6 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 </p>
 
 #### :heavy_check_mark: 한 줄 평 등록 
-![register comment](https://user-images.githubusercontent.com/46641538/131460185-89d2b0ff-0e72-41db-af22-f24a9ca424df.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46641538/131460185-89d2b0ff-0e72-41db-af22-f24a9ca424df.png" width="67%"></img>
+</p>
