@@ -14,6 +14,7 @@
 </br>
 
 ## 프로젝트 요구 명세서
+https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNEKbs/edit#slide=id.p22
 
 ## :closed_book: 기술
 
@@ -29,6 +30,10 @@
 ## 개발기간
 - 2021.07 ~ 08
 
+</br>
+
+## 데이터 베이스 테이블
+![reservation_ERD_4](https://user-images.githubusercontent.com/46641538/131459834-a7f78388-e294-42fb-8db2-58bfedc172fb.png)
 </br>
 
 ## 📸 ScreenShots
@@ -58,4 +63,7 @@
 <img src="https://user-images.githubusercontent.com/46397442/92991076-fca7d100-f51b-11ea-8971-4fedd71be38b.png" width="67%"></img>
 </p>
 
-
+#### :heavy_check_mark: 한 줄 평 등록 
+<p align="center">
+![register comment](https://user-images.githubusercontent.com/46641538/131460185-89d2b0ff-0e72-41db-af22-f24a9ca424df.png)
+</p>
