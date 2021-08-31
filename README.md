@@ -63,7 +63,7 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 
 #### :heavy_check_mark: 로그인 (전,후)
 <p align="center">
-<https://user-images.githubusercontent.com/46641538/131463147-59bdf597-92c0-4383-801f-a92440d9f8d3.png" width="67%"></img>
+  <img src="https://user-images.githubusercontent.com/46641538/131463147-59bdf597-92c0-4383-801f-a92440d9f8d3.png" width="56%"></img>
 </p>
 
 #### :heavy_check_mark: 한 줄 평 등록 
