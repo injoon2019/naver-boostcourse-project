@@ -34,7 +34,9 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 </br>
 
 ## 데이터 베이스 테이블
-![reservation_ERD_4](https://user-images.githubusercontent.com/46641538/131459834-a7f78388-e294-42fb-8db2-58bfedc172fb.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46641538/131459834-a7f78388-e294-42fb-8db2-58bfedc172fb.png" width="56%"></img>
+</p>
 </br>
 
 ## 📸 ScreenShots
@@ -66,7 +68,7 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 
 #### :heavy_check_mark: 한 줄 평 등록 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/46641538/131460185-89d2b0ff-0e72-41db-af22-f24a9ca424df.png" width="67%"></img>
+<img src="https://user-images.githubusercontent.com/46641538/131460185-89d2b0ff-0e72-41db-af22-f24a9ca424df.png" width="33%"></img>
 </p>
 
 ## 📖 What I Learned 
