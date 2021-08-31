@@ -2,12 +2,7 @@
 
 </br></br>
 
-## 개발기간
-- 2021.07 ~ 08
-
-</br>
-
-## 
+## 프로젝트 개요
 
 * 네이버 커넥츠 재단 ["부스트코스 - 웹 프로그래밍 👈"](https://www.edwith.org/boostcourse-web/joinLectures/12943) 최종 프로젝트
 * 본 서비스를 이용하여 뮤지컬/콘서트/공연을 조회, 예약하기, 예약확인, 리뷰등록을 할 수 있다. 
@@ -17,6 +12,8 @@
 :exclamation: html, css was supported by [boostcourse](https://www.edwith.org/boostcourse-web/joinLectures/12943)
 
 </br>
+
+## 프로젝트 요구 명세서
 
 ## :closed_book: 기술
 
@@ -29,7 +26,9 @@
 - CSS
 - JavaScript
 
-</br>
+## 개발기간
+- 2021.07 ~ 08
+
 </br>
 
 ## 📸 ScreenShots
