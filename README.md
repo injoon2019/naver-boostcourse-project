@@ -21,6 +21,7 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 #### :orange_book: backend
 - Spring framework (4.3)
 - MYSQL (5.6)
+- Tomcat (8.5)
 
 #### :orange_book: frontend
 - HTML
@@ -69,3 +70,36 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 </p>
 
 ## 📖 What I Learned 
+#### 네이버 부스트코스 풀스택 강의 정리
+[네이버 부스트코스 풀스택 강의 정리](https://velog.io/@injoon2019/series/%EC%9B%B9-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4)
+
+#### 스프링 의존성 및 의존성 주입 방식 세 가지
+[스프링 의존성 및 의존성 주입 방식 세 가지](https://velog.io/@injoon2019/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88-%EC%A3%BC%EC%9E%85-%EB%B0%A9%EC%8B%9D-DI-%EC%9D%98%EC%A1%B4-%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85)
+
+#### JDBC Template이란
+[JDBC Template이란](https://velog.io/@injoon2019/%EC%8A%A4%ED%94%84%EB%A7%81-JDBC-Template)
+
+#### 인터페이스
+[인터페이스 vs 추상클래스](https://velog.io/@injoon2019/%EC%9E%90%EB%B0%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-vs-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4)
+
+#### 빌더 패턴
+[빌더 패턴이란](https://velog.io/@injoon2019/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4)
+
+#### COUNT(\*)와 COUNT(column)의 차이
+[COUNT(*)와 COUNT(column)차이](https://velog.io/@injoon2019/SQL-COUNT%EC%99%80-COUNTcolumn%EC%B0%A8%EC%9D%B4)
+
+#### 자바에서 빈 리스트를 반환하는 방법
+[Collections.EMPTY_LIST](https://velog.io/@injoon2019/%EC%9E%90%EB%B0%94-Collections.EMPTYLIST)
+
+#### 스프링에서 예외 처리
+[스프링에서 예외 처리](https://velog.io/@injoon2019/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
+
+#### NullPointerException을 처리하는 방법들
+[NullPointerException 처리 방법](https://velog.io/@injoon2019/%EC%9E%90%EB%B0%94-NullPointerException-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95)
+
+#### 스프링의 로그 남기는 법
+[Log4j, Logback, Log4j2, slf4j](https://velog.io/@injoon2019/%EC%8A%A4%ED%94%84%EB%A7%81-Log4j-Logback-Log4j2-slf4j)
+
+#### 자바에서 문자열 다루는 법
+[String, StringBuilder, StringBuffer](https://velog.io/@injoon2019/%EC%9E%90%EB%B0%94-String-StringBuilder-StringBuffer)
+
