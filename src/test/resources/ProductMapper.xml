@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="ProductMapper">
+  <select id="selectByCategoryId" resultType="com.ntscorp.intern.product.dto.ProductDto">
+    SELECT display_info.id, display_info.place_name, product.content AS ProductContent, 
+			product.description AS productDescription, 
+			display_info.product_id, file_info.save_file_name AS productImageUrl 
+			FROM product JOIN display_info ON product.id = display_info.product_id 
+			JOIN product_image ON product.id = product_image.product_id 
+			JOIN file_info ON product_image.file_id = file_info.id 
+			WHERE product.category_id = ${categoryId} AND product_image.type = 'th' ;
+  </select>
+</mapper>
