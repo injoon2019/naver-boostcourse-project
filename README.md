@@ -22,6 +22,7 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 - Spring framework (4.3)
 - MYSQL (5.6)
 - Tomcat (8.5)
+- Java8
 
 #### :orange_book: frontend
 - HTML
