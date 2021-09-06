@@ -9,7 +9,7 @@
 * Mobile에 최적화된 Web Service
 
 </br>
-:exclamation: html, css was supported by [boostcourse](https://www.edwith.org/boostcourse-web/joinLectures/12943)
+:exclamation: HTML, CSS was supported by [boostcourse](https://www.edwith.org/boostcourse-web/joinLectures/12943)
 
 </br>
 
@@ -19,10 +19,10 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 ## :closed_book: 기술
 
 #### :orange_book: backend
-- Spring framework (4.3)
-- MYSQL (5.6)
+- Spring (4.3)
+- MySQL (5.6)
 - Tomcat (8.5)
-- Java8
+- Java 8
 
 #### :orange_book: frontend
 - HTML
