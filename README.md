@@ -40,6 +40,10 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 </p>
 </br>
 
+## 프로젝트 API Swagger
+[API 스펙](http://49.236.147.192:9090/swagger-ui.html#/%EC%98%88%EC%95%BD%20API/createReservationCommentUsingPOST)
+
+
 ## 📸 ScreenShots
 #### :heavy_check_mark: 메인
 <p align="center">
