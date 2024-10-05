@@ -58,7 +58,8 @@ https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNE
 
 #### :heavy_check_mark: 예약진행
 <p align="center">
-<img src="https://user-images.githubusercontent.com/46397442/92990507-03344980-f518-11ea-91a6-68e7a193ea8d.png" width="56%"></img>
+<img src="![image](https://github.com/user-attachments/assets/58bafc68-caba-4c9e-9410-11bc6f715089)
+" width="56%"></img>
 </p>
 
 #### :heavy_check_mark: 예약확인
